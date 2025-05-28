@@ -1,3 +1,4 @@
 /poetry.lock
 /.idea
 /src/data-copy
+*/__pycache__
